@@ -55,8 +55,6 @@
 
 ##  Meet Chompy 🦈
 
-<h2 align="center" style="color:#36BCF7FF;">Meet Chompy</h2>
-
 <p align="center">
   <img src="logo.png" alt="Chompy logo" width="120">
 </p>
