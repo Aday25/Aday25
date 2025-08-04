@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#36BCF7;">Hi there! ⚓ Welcome aboard my sea of code! 👩🏻‍💻🦈</h2>
+## Hi there! ⚓ Welcome aboard my sea of code! 👩🏻‍💻🦈</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -26,7 +26,6 @@
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h2 align="center">👩🏻‍💻 About Me</h2>
-
       <p>
         I'm Aday — a fullstack JavaScript developer in training based in Spain 🇪🇸.<br>
         I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
@@ -40,7 +39,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## Technologies & Tools
