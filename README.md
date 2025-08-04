@@ -24,11 +24,17 @@
     <tr>
       <td><img src="avatar.png" width="220px" /></td>
       <td>
-        <h3>About me</h3>
-        <p>
-          I'm a passionate fullstack developer in training, <br />
-          diving deep into code to build creative and useful things. <br />
-          Currently sailing through my Bootcamp adventure!
+        <h2 align="center">👩🏻‍💻 About Me</h2>
+
+        <p align="center">
+          I'm Aday — a fullstack JavaScript developer in training based in Spain 🇪🇸.<br>
+          I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
+
+          I'm passionate about web development, clean code and building projects that are not only functional but also beautiful and meaningful.<br>
+          I believe learning is a lifelong voyage, and I'm loving the sea of possibilities that tech offers! 🌊<br><br>
+
+          Besides coding, I love photography, visual design, and any excuse to organize things with Notion 😄.<br>
+          I'm always eager to collaborate, learn from others, and grow with each line of code.
         </p>
       </td>
     </tr>
@@ -50,7 +56,7 @@
 
 ---
 
-## 🦈 Meet Chompy
+##  Meet Chompy 🦈
 
 <h2 align="center" style="color:#36BCF7FF;">Meet Chompy</h2>
 
@@ -71,13 +77,13 @@
 
 ## Contact
 
-📫 You can find me at:  
-<h3 align="center">
-  📬 <a href="mailto:aday.it25@gmail.com">@Contacto</a> • 
-  <a href="https://www.linkedin.com/in/adayasc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;" />
+<p align="center">
+  📫 You can find me at:<br><br>
+  <a href="mailto:aday.alvarez84@gmail.com">📬 @Contacto</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/adayasc/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" />
   </a>
-</h3>
+</p>
 
 <details>
   <summary>🚀 My GitHub Stats - Click to view!</summary>
