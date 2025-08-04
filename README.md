@@ -47,27 +47,45 @@
 ## Contact
 
 📫 You can find me at:  
-- [LinkedIn](https://www.linkedin.com/in/adayasc/)  
-- [Email](mailto:aday.alvarez84@gmail.com)
-
+<h3 align="center">
+  📬 <a href="mailto:aday.it25@gmail.com">@Contacto</a> • 
+  <a href="https://www.linkedin.com/in/adayasc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;" />
+  </a>
+</h3>
 ---
 
 ## 🦈 Meet Chompy
 
+<h2 align="center" style="color:#36BCF7FF;">Meet Chompy</h2>
+
 <p align="center">
-  <img src="logo.png" alt="Chompy, the shark logo" width="150" />
+  <img src="logo.png" alt="Chompy logo" width="120">
 </p>
 
-Chompy is the official shark guarding my projects, swimming fearlessly through lines of code.  
-Don’t worry, he doesn’t bite... unless the indentation is off. 😄  
-
-This logo represents my work style: straightforward, efficient, with a touch of sea adventure.  
-I hope you like it as much as I enjoy creating alongside him! ⚓🐚
+<p align="center">
+  <strong>Chompy</strong> is the official shark guarding my projects,<br>
+  swimming fearlessly through lines of code. 🦈<br><br>
+  Don’t worry, he doesn’t bite... unless the indentation is off. 😄<br><br>
+  This logo represents my work style: straightforward, efficient,<br>
+  with a touch of sea adventure. ⚓🐚<br><br>
+  I hope you like it as much as I enjoy creating alongside him!
+</p>
 
 ---
 
 <details>
   <summary>🚀 My GitHub Stats - Click to view!</summary>
+
+---
+
+<p align="center">
+  <img src="https://i.gifer.com/VAyR.gif" width="100" alt="Wave" />
+</p>
+<p align="center">
+  ⛵ <strong>Thanks for sailing through my GitHub!</strong><br>
+  May your journey be full of smooth commits and creative storms. 🚀
+</p>
 
   <br/>
 
