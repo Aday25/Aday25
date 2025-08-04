@@ -1,6 +1,11 @@
 <h2 align="center" style="color:#36BCF7;">Hi there! ⚓ Welcome aboard my sea of code! 👩🏻‍💻🦈</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2788B3&width=600&height=60&lines=%F0%9F%A4%BD+Dive+%F0%9F%92%A1+get+inspired+and+%F0%9F%8E%A8+create!;%F0%9F%8C%8A+Every+project%E2%80%99s+a+drop+in+my+learning+ocean+%F0%9F%A6%88;%F0%9F%92%99+Thanks+for+diving+into+my+projects+%F0%9F%A4%97)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=600&height=60&lines=%F0%9F%A4%BFDive%2C+%F0%9F%92%A1get+inspired%2C+and+%F0%9F%8E%A8create!;%F0%9F%8C%8A+Every+project%E2%80%99s+a+drop+in+my+learning+ocean%F0%9F%A6%88;%F0%9F%92%99+Thanks+for+diving+into+my+projects!+%F0%9F%A4%97" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aday25&color=2788B3" alt="visitor count" />
@@ -14,20 +19,21 @@
 
 ## About me
 
-<table>
-  <tr>
-    <td>
-      <img src="avatar.png" alt="Avatar" width="150" style="border-radius: 50%;">
-    </td>
-    <td style="padding-left: 20px;">
-        <span>
-        Hi! I'm Ady, a fullstack JavaScript student with a passion for the sea and coding.<br>
-        Sail with me through this ocean of projects, ideas, and learning.<br>
-        I hope you enjoy exploring this sea of code as much as I enjoy creating it.
-        </span>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="avatar.png" width="220px" /></td>
+      <td>
+        <h3>About me</h3>
+        <p>
+          I'm a passionate fullstack developer in training, <br />
+          diving deep into code to build creative and useful things. <br />
+          Currently sailing through my Bootcamp adventure!
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -78,16 +84,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" width="100" alt="Wave" />
-</p>
-<p align="center">
-  ⛵ <strong>Thanks for sailing through my GitHub!</strong><br>
-  May your journey be full of smooth commits and creative storms. 🚀
-</p>
-
----
-
   <br/>
 
   ![Aday25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aday25&show_icons=true&theme=blue)
@@ -97,3 +93,8 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aday25&layout=compact&theme=blue)
 
 </details>
+
+---
+
+<h3 align="center">⛵ Thanks for sailing through my GitHub!</h3>
+<p align="center"><i>May your own journey be full of smooth commits and creative storms. 🚀</i></p>
