@@ -22,6 +22,7 @@
   <tr>
     <td><img src="avatar.png" width="220" alt="avatar" /></td>
     <td valign="top" style="padding-left: 15px;">
+      
       <p>
         I'm Aday, a fullstack JavaScript developer in training based in Madrid, Spain.<br>
         I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
