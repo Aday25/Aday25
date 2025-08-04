@@ -73,8 +73,8 @@
 ## Contact
 
 <p align="center">
-  📫 You can reach me at  
-  <a href="mailto:aday.it25@gmail.com">@Email</a>  
+  📫 You can reach me at @ 
+  <a href="mailto:aday.it25@gmail.com">Email</a>  
   or connect on  LinkedIn
   <a href="https://www.linkedin.com/in/adayasc/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn" style="vertical-align:middle;" />
