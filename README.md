@@ -18,22 +18,25 @@
 
 ## About me <img width="40" height="40" alt="sirenita" src="https://github.com/user-attachments/assets/87da7677-5a51-4512-acb3-4a1808539038" /></h2>
 
-<table>
-  <tr>
-    <td><img src="avatar.png" width="220" alt="avatar" /></td>
-    <td valign="top" style="padding-left: 15px;">
-      
-      <p>
-        <br>I'm Aday, a fullstack JavaScript developer in training based in Madrid, Spain.<br>
-        I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
-        I'm passionate about web development, clean code and building projects that are not only functional but also beautiful and meaningful.<br>
-        I believe learning is a lifelong voyage, and I'm loving the sea of possibilities that tech offers! 🌊<br><br>
-        Besides coding, I love photography, visual design, and any excuse to organize things with Notion 😄.<br>
-        I'm always eager to collaborate, learn from others, and grow with each line of code.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="avatar.png" width="220" alt="avatar" style="border-radius: 10px;" />
+      </td>
+      <td style="padding-left: 25px; text-align: left; vertical-align: top;">
+        <p>
+          <br>I'm Aday, a fullstack JavaScript developer in training based in Madrid, Spain.<br>
+          I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
+          I'm passionate about web development, clean code and building projects that are not only functional but also beautiful and meaningful.<br>
+          I believe learning is a lifelong voyage, and I'm loving the sea of possibilities that tech offers! 🌊<br><br>
+          Besides coding, I love photography, visual design, and any excuse to organize things with Notion 😄.<br>
+          I'm always eager to collaborate, learn from others, and grow with each line of code.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
