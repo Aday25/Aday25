@@ -16,7 +16,7 @@
 
 ---
 
-## About me
+## About me <img width="40" height="40" alt="sirenita" src="https://github.com/user-attachments/assets/87da7677-5a51-4512-acb3-4a1808539038" /></h2>
 
 <table>
   <tr>
