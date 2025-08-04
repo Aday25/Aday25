@@ -19,26 +19,20 @@
 
 ## About me
 
-<table align="center" style="margin: auto;">
-  <tr>
-    <td align="center" valign="top">
-      <img src="avatar.png" width="220px" />
-    </td>
-    <td style="padding-left: 20px; vertical-align: top;">
-      <h2 align="center">👩🏻‍💻 About Me</h2>
-      <p>
-        I'm Aday — a fullstack JavaScript developer in training based in Spain 🇪🇸.<br>
-        I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
+<p align="center">
+  <img src="avatar.png" width="220" alt="Avatar" style="display: inline-block; vertical-align: middle; margin-right: 20px;" />
+  <span style="display: inline-block; vertical-align: middle; max-width: 60%;">
+    I'm Aday — a fullstack JavaScript developer in training based in Spain 🇪🇸.<br>
+    I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
 
-        I'm passionate about web development, clean code and building projects that are not only functional but also beautiful and meaningful.<br>
-        I believe learning is a lifelong voyage, and I'm loving the sea of possibilities that tech offers! 🌊<br><br>
+    I'm passionate about web development, clean code and building projects that are not only functional but also beautiful and meaningful.<br>
+    I believe learning is a lifelong voyage, and I'm loving the sea of possibilities that tech offers! 🌊<br><br>
 
-        Besides coding, I love photography, visual design, and any excuse to organize things with Notion 😄.<br>
-        I'm always eager to collaborate, learn from others, and grow with each line of code.
-      </p>
-    </td>
-  </tr>
-</table>
+    Besides coding, I love photography, visual design, and any excuse to organize things with Notion 😄.<br>
+    I'm always eager to collaborate, learn from others, and grow with each line of code.
+  </span>
+</p>
+
 ---
 
 ## Technologies & Tools
