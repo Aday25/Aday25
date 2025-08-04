@@ -73,11 +73,11 @@
 ## Contact
 
 <p align="center">
-  📫 You can find me at:<br><br>
-  <a href="mailto:aday.it25@gmail.com" style="text-decoration:none; color:#247EA6; font-weight:bold;">
-    📬 @Contacto
-  </a>  
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  📫 You can reach me at  
+  <a href="mailto:aday.it25@gmail.com"></a>  
+  or connect on  
+  <a href="https://www.linkedin.com/in/adayasc/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+  <br><br>
   <a href="https://www.linkedin.com/in/adayasc/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn" style="vertical-align:middle;" />
   </a>
