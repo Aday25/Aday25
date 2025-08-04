@@ -44,17 +44,6 @@
 
 ---
 
-## Contact
-
-📫 You can find me at:  
-<h3 align="center">
-  📬 <a href="mailto:aday.it25@gmail.com">@Contacto</a> • 
-  <a href="https://www.linkedin.com/in/adayasc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;" />
-  </a>
-</h3>
----
-
 ## 🦈 Meet Chompy
 
 <h2 align="center" style="color:#36BCF7FF;">Meet Chompy</h2>
@@ -74,6 +63,16 @@
 
 ---
 
+## Contact
+
+📫 You can find me at:  
+<h3 align="center">
+  📬 <a href="mailto:aday.it25@gmail.com">@Contacto</a> • 
+  <a href="https://www.linkedin.com/in/adayasc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;" />
+  </a>
+</h3>
+
 <details>
   <summary>🚀 My GitHub Stats - Click to view!</summary>
 
@@ -86,6 +85,8 @@
   ⛵ <strong>Thanks for sailing through my GitHub!</strong><br>
   May your journey be full of smooth commits and creative storms. 🚀
 </p>
+
+---
 
   <br/>
 
