@@ -1,4 +1,4 @@
-# Hi there! ⚓ Welcome aboard my sea of code! 👩🏻‍💻🦈
+<h2 align="center" style="color:#36BCF7;">Hi there! ⚓ Welcome aboard my sea of code! 👩🏻‍💻🦈</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2788B3&width=600&height=60&lines=%F0%9F%A4%BD+Dive+%F0%9F%92%A1+get+inspired+and+%F0%9F%8E%A8+create!;%F0%9F%8C%8A+Every+project%E2%80%99s+a+drop+in+my+learning+ocean+%F0%9F%A6%88;%F0%9F%92%99+Thanks+for+diving+into+my+projects+%F0%9F%A4%97)](https://git.io/typing-svg)
 
