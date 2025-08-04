@@ -74,7 +74,7 @@
 
 <p align="center">
   📫 You can reach me at  
-  <a href="mailto:aday.it25@gmail.com"></a>  
+  <a href="mailto:aday.alvarez84@gmail.com">aday.alvarez84@gmail.com</a>  
   or connect on  
   <a href="https://www.linkedin.com/in/adayasc/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
   <br><br>
