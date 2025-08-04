@@ -25,7 +25,7 @@
       <h2>About Me <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4cde3537-90d5-444a-9806-fdb25e20b73a" />
 </h2>
       <p>
-        I'm Aday — a fullstack JavaScript developer in training based in Spain 🇪🇸.<br>
+        I'm Aday, a fullstack JavaScript developer in training based in Madrid, Spain 🇪🇸.<br>
         I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
         I'm passionate about web development, clean code and building projects that are not only functional but also beautiful and meaningful.<br>
         I believe learning is a lifelong voyage, and I'm loving the sea of possibilities that tech offers! 🌊<br><br>
@@ -74,11 +74,16 @@
 
 <p align="center">
   📫 You can find me at:<br><br>
-  <a href="mailto:aday.alvarez84@gmail.com">📬 @Contacto</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/adayasc/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" />
+  <a href="mailto:aday.it25@gmail.com" style="text-decoration:none; color:#247EA6; font-weight:bold;">
+    📬 @Contacto
+  </a>  
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adayasc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn" style="vertical-align:middle;" />
   </a>
 </p>
+
+---
 
 <details>
   <summary>🚀 My GitHub Stats - Click to view!</summary>
