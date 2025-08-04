@@ -20,8 +20,11 @@
       <img src="avatar.png" alt="Avatar" width="150" style="border-radius: 50%;">
     </td>
     <td style="padding-left: 20px;">
-      <p>Tu texto aquí, que quieres que quede al lado de la imagen.</p>
-      <p>Más texto si quieres.</p>
+        <span>
+        Hi! I'm Ady, a fullstack JavaScript student with a passion for the sea and coding.<br>
+        Sail with me through this ocean of projects, ideas, and learning.<br>
+        I hope you enjoy exploring this sea of code as much as I enjoy creating it.
+        </span>
     </td>
   </tr>
 </table>
