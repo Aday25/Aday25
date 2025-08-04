@@ -24,7 +24,7 @@
     <td valign="top" style="padding-left: 15px;">
       
       <p>
-        I'm Aday, a fullstack JavaScript developer in training based in Madrid, Spain.<br>
+        <br>I'm Aday, a fullstack JavaScript developer in training based in Madrid, Spain.<br>
         I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
         I'm passionate about web development, clean code and building projects that are not only functional but also beautiful and meaningful.<br>
         I believe learning is a lifelong voyage, and I'm loving the sea of possibilities that tech offers! 🌊<br><br>
