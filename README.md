@@ -22,8 +22,6 @@
   <tr>
     <td><img src="avatar.png" width="220" alt="avatar" /></td>
     <td valign="top" style="padding-left: 15px;">
-      <h2>About Me <img width="40" height="40" alt="sirenita" src="https://github.com/user-attachments/assets/87da7677-5a51-4512-acb3-4a1808539038" />
-      </h2>
       <p>
         I'm Aday, a fullstack JavaScript developer in training based in Madrid, Spain.<br>
         I'm currently immersed in an intensive Bootcamp, coding day and night 🌙✨.<br><br>
