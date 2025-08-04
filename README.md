@@ -1,7 +1,7 @@
 ## Hi there! ⚓ Welcome aboard my sea of code! 👩🏻‍💻🦈</h2>
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=247EA6&width=600&height=60&lines=%F0%9F%A4%BFDive%2C+%F0%9F%92%A1get+inspired+%2C+and+%F0%9F%8E%A8create!;%F0%9F%8C%8A+Every+project%E2%80%99s+a+drop+in+my+learning+ocean%F0%9F%A6%88;%F0%9F%92%99+Thanks+for+diving+into+my+projects!+%F0%9F%A4%97)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=247EA6&width=600&height=60&lines=%F0%9F%A4%BFDive%2C+%F0%9F%92%A1get+inspired+%2C+and+%F0%9F%8E%A8create!;%F0%9F%8C%8A+Every+project%E2%80%99s+a+drop+in+my+learning+ocean%F0%9F%A6%88;%F0%9F%92%99+Thanks+for+diving+into+my+projects!+%F0%9F%A4%97" alt="Typing SVG" />
 </p>
 
 
