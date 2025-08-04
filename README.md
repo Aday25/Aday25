@@ -100,4 +100,4 @@
 ---
 
 <h3 align="center">⛵ Thanks for sailing through my GitHub!</h3>
-<p align="center"><i>May your own journey be full of smooth commits and creative storms. 🚀</i></p>
+<p align="center"><i>May your own journey be full of smooth commits and creative storms. ⚡​</i></p>
