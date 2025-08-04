@@ -77,7 +77,6 @@
   <a href="mailto:aday.it25@gmail.com">@Email</a>  
   or connect on  
   <a href="https://www.linkedin.com/in/adayasc/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
-  <br><br>
   <a href="https://www.linkedin.com/in/adayasc/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn" style="vertical-align:middle;" />
   </a>
