@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td>
-        <img src="avatar.png" width="220" alt="avatar" style="border-radius: 10px;" />
+        <img src="avatar.png" alt="avatar" style="border-radius: 10px; max-width: 100%; height: auto; width: 220px;" />
       </td>
       <td style="padding-left: 25px; text-align: left; vertical-align: top;">
         <p>
