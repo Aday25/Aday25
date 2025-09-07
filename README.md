@@ -91,7 +91,7 @@
 
 ---
 
-© 2025 Aday Álvarez - All rights reserved.
+<p align="center">© 2025 Aday Álvarez - All rights reserved.</p>
 
 ---
 
