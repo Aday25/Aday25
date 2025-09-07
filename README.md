@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  👉 <a href="[https://oop-game-three.vercel.app/index.html](https://chompy-the-game.vercel.app/)" target="_blank"><strong>Click here to play now!</strong></a> 🐣🦈  
+  👉 <a href="https://chompy-the-game.vercel.app/" target="_blank"><strong>Click here to play now!</strong></a> 🐣🦈  
 </p>
 <br>
   📂 <a href="https://github.com/Aday25/oop-game-three" target="_blank"><strong>View the repository</strong></a>  
