@@ -57,7 +57,7 @@
 
 ---
 
-##  Meet Chompy 🦈
+## Meet Chompy 🦈
 
 <p align="center">
   <img src="logo.png" alt="Chompy logo" width="120">
@@ -71,6 +71,27 @@
   with a touch of sea adventure. ⚓🐚<br><br>
   I hope you like it as much as I enjoy creating alongside him!
 </p>
+
+---
+
+## 🎮 Play *Chompy The Game*  
+
+<p align="center">
+  <a href="https://oop-game-three.vercel.app/index.html" target="_blank">
+    <img src="cover.png" alt="Chompy The Game preview" width="200">
+  </a>
+</p>
+
+<p align="center">
+  👉 <a href="[https://oop-game-three.vercel.app/index.html](https://chompy-the-game.vercel.app/)" target="_blank"><strong>Click here to play now!</strong></a> 🐣🦈  
+</p>
+<br>
+  📂 <a href="https://github.com/Aday25/oop-game-three" target="_blank"><strong>View the repository</strong></a>  
+</p>
+
+---
+
+© 2025 Aday Álvarez - All rights reserved.
 
 ---
 
